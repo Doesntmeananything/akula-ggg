@@ -39,7 +39,7 @@ export const Footer = () => {
 
         <Divider className="mt-7 mb-4 md:hidden" />
 
-        <div className="flex flex-col lg:[grid-column:2] lg:[grid-row:2] lg:justify-self-center">
+        <div className="flex flex-col lg:[grid-column:2] lg:[grid-row:2] lg:justify-self-end 2xl:justify-self-center">
           <span className="text-lg lg:text-3xl pb-1 lg:pb-2">Email</span>
 
           <div className="flex flex-col md:flex-row lg:flex-col md:gap-4 lg:gap-2 text-sm md:text-xs lg:text-xl md:leading-3">

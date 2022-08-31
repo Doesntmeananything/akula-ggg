@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  // NOTE: disable to enable fonts during development
+  // NOTE: set to `false` to enable fonts during development
   optimizeFonts: true,
 };
 
